@@ -1,5 +1,5 @@
 docker run \
-volume=/var/lib/drone:/data \
+  --volume=/var/lib/drone:/data \
   --env=DRONE_GITHUB_CLIENT_ID=id-do-oauth-app \
   --env=DRONE_GITHUB_CLIENT_SECRET=secret-do-app \
   --env=DRONE_RPC_SECRET=secret-criado \
