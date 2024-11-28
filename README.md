@@ -1,1 +1,1 @@
-# curso-pipeline
+# Repositório do Curso Introdutório de CI
