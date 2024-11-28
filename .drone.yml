@@ -12,7 +12,3 @@ steps:
     image: python:3.9
     commands: 
       - python -c "print('rodando python')"
-
-trigger:
-  branch:
-    - main
